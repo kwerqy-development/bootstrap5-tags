@@ -3,9 +3,6 @@
  *
  * Turns your select[multiple] into nice tags lists
  *
- * https://www.cssscript.com/demo/tags-input-bootstrap-5/
- * https://www.cssscript.com/tags-input-bootstrap-5/
- *
  * Required Bootstrap 5 styles:
  * - badge
  * - background-color utility
@@ -2554,3 +2551,5 @@ class Tags {
     }
   }
 }
+
+export default Tags;
