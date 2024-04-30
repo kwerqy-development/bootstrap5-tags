@@ -2552,4 +2552,4 @@ class Tags {
   }
 }
 
-export default Tags;
+// export default Tags;
